@@ -1,0 +1,11 @@
+1. pwd -> outputs the name of the current working directory.
+2. ls -> lists all files and directories in the working directory.
+3. cd -> switches you into the directory you specify.
+4. mkdir -> creates a new directory in the working directory.
+5. touch -> creates a new file inside the working directory.
+
+6. cat 
+7. cp <source_file> <destination_path>
+8. cp * <destination_path> 
+9. mv <source_file> <destination_path> 
+10. rm -rf <file\folder_name> 
